@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186942044072",
+    "project_id": "haithem-carmaintenancesystem",
+    "storage_bucket": "haithem-carmaintenancesystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186942044072:android:b550223cda2b24a566cf9d",
+        "android_client_info": {
+          "package_name": "com.example.haithem_carmaintenancesystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRkVc6w-9xqXXNvnx00HaGH0W-zlflqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
